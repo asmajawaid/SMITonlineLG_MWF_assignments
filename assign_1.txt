@@ -1,0 +1,86 @@
+CCOMPUTER
+Imagine a computer as a super-fast electronic helper that can follow instructions and solve problems.
+
+A computer can:
+
+📝 Write documents like homework and stories.
+🎮 Play games.
+🎬 Watch videos and movies.
+🌐 Browse the internet to find information.
+🎨 Draw pictures and create art.
+➕ Do calculations much faster than people.
+
+A computer works because of two main things
+
+
+1. Hardware 🖥️ – The parts you can touch, such as the screen, keyboard, mouse, and speakers.
+2. Software 💻 – The programs and apps that tell the computer what to do, like games, browsers, and drawing apps.ardware and Software
+
+
+
+Computer hardware refers to the physical, tangible components of a system (everything you can physically touch). Computer software is a set of
+ intangible instructions or programs that tells the hardware exactly what to do.
+
+ 1. Hardware (The Physical Foundation)
+
+VHardware is the machinery that powers your device. Without it, there is no place to run your programs, and without software, the machinery is
+ useless. Hardware generally falls into four categories
+
+Processing: The "brain" of the computer, such as the Central Processing Unit (CPU) and Graphics Processing Unit (GPU).Processing: The "brain" of
+ the computer, such as the Central Processing Unit (CPU) and Graphics Processing Unit (GPU).
+
+Memory and Storage: Where data is held. This includes Random Access Memory (RAM) for temporary tasks and Hard Disk Drives (HDD) or Solid-State
+ Drives (SSD) for long-term file storage.
+
+Input Devices: Hardware used to send data into the computer, like keyboards, mice, and microphones.
+
+Output Devices: Hardware that presents or displays data out of the computer, like monitors and printers.
+
+
+2. Software (The Digital Instructions)
+
+Software is made of code and cannot be physically touched. It provides the logic and direction that hardware needs to perform any task. Software
+ is divided into two primary types:
+
+System Software: The foundational programs that manage the computer's hardware and act as a bridge for other programs. The most common example
+ is your Operating System (OS) (e.g., Windows, macOS, Linux, iOS, or Android). Device drivers and antivirus programs are also system software.
+
+Application Software: Programs built to help you perform specific everyday tasks. Examples include web browsers (Chrome, Safari), word
+ processors (Microsoft Word), and mobile apps or video games
+
+How They Work Together
+
+Hardware and software are fully interdependent. Think of a computer like an orchestra: the hardware is the physical instruments and sheet music,
+ while the software is the conductor telling the musicians when and how to play.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
